@@ -27,4 +27,4 @@ La motivación principal de este proyecto es aplicar los conocimientos adquirido
 !![Diagrama E-R](diagrama.jpg)
 
 - Diagrama Entidad-Relacion en UML
-![Diagrama UML](DiagramaUML.png)
+![Diagrama UML](diagramaUML.png)
