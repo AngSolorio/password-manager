@@ -18,3 +18,13 @@ La motivación principal de este proyecto es aplicar los conocimientos adquirido
 - Interfaz gráfica: WPF
 - Base de datos: SQLite
 - Control de versiones: Git y GitHub
+
+---
+
+## Diagramas
+
+- Diagrama Entidad-Relacion
+!![Diagrama E-R](diagrama.jpg)
+
+- Diagrama Entidad-Relacion en UML
+![Diagrama UML](DiagramaUML.png)
